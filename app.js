@@ -8,7 +8,7 @@ tiles.addTo(mymap);
 
 // making a marker with a custom icon
 const issIcon = L.icon({
-  iconUrl: 'satalite.png',
+  iconUrl: 'satellite.png',
   iconSize: [50, 32],
   iconAnchor: [25, 16],
 });
